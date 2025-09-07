@@ -1,2 +1,2 @@
 # design-importer
-this is to import new portfolio designs  
+This repository is used to import portfolio designs.
